@@ -1,0 +1,6 @@
+streamlit==1.54.0
+pandas==2.3.3
+numpy==2.4.2
+plotly==6.5.2
+openpyxl==3.1.5
+python-dateutil==2.9.0.post0
